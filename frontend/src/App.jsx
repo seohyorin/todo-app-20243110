@@ -10,7 +10,7 @@ function App() {
   const [editingId, setEditingId] = useState(null);
   const [editingTitle, setEditingTitle] = useState('');
 
-  const API = 'http://localhost:5000/api/todos';
+  const API = '/api/todos';
 
   const completedCount = todos.filter((t) => t.completed).length;
   const ongoingCount = todos.filter((t) => !t.completed).length;
