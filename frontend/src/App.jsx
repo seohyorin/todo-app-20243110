@@ -526,7 +526,7 @@ const styles = {
 
   laceTrim: {
     position: 'absolute',
-    top: '40px',
+    top: '41px',
     left: '18px',
     right: '18px',
     height: '16px',
