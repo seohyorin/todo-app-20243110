@@ -17,7 +17,7 @@ React와 Node.js, MongoDB를 사용하여 구현하였습니다.
 - Deployment: Vercel
 
 ## 배포 링크
-https://todo-app-20243110-399u3kirr-seoyr77-6853s-projects.vercel.app/
+https://todo-app-20243110.vercel.app/
 
 ## GitHub Repository
 https://github.com/seohyorin/todo-app-20243110
